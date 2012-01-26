@@ -2,7 +2,8 @@
 
 Here are the settings to add a "Send To" short cut for Hacker News in Google Reader.
 
-1. In Google Reader, go to **Settings->Send To**.
+1. In Google Reader, click the Options icon (gear icon) and select **"Reader settings"**
+2. Click the  **Send To** tab.
 2. Scroll down to the section that says **"Don't see your favorite site?"**.
 3. Click **"Create a custom link"** and enter the following values:
 
